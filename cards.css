@@ -11,6 +11,7 @@
     border-radius: 11px;
     display: inline-block;
     margin-right: 50px;
+    padding: 20px;
 }
 
 .box2{
@@ -21,9 +22,16 @@
     border-style: solid;
     border-radius: 11px;
     padding-left: 20px;
-    margin-left: -3px;
+    margin-left: -23px;
+    margin-top: -5px;
 }
 
-.text{
-    padding-bottom: 30px;
+h3{
+    color: #252B42;
+    display: flex;
+}
+
+span{
+    margin-top: 25px;
+    margin-left: 10px;
 }
