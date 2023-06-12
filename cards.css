@@ -1,0 +1,29 @@
+*{
+   box-sizing: border-box;
+}
+
+.box1{
+    width: 328px;
+    height: 132px;
+    background-color: #D9EDFF;
+    border-color: #D9EDFF;
+    border-style: solid;
+    border-radius: 11px;
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.box2{
+    width: 328px;
+    height: 253px;
+    background-color: #FFFFFF;
+    border-color: #D9EDFF;
+    border-style: solid;
+    border-radius: 11px;
+    padding-left: 20px;
+    margin-left: -3px;
+}
+
+.text{
+    padding-bottom: 30px;
+}
